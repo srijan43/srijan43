@@ -5,7 +5,7 @@
 We are a team of 4 members, we choose the topic Personalized Healthcare Recommendation System,
 where we created an website with AI-driven healthcare recommendation system that analyzes individual health data, preferences, and genetic information to provide personalized treatment plans, preventive care suggestions, and lifestyle recommendations for improved health outcomes using only html and css.
 
-The website  contains 5 elements. Each one is linked to a seperate web page.
+<h3>The website  contains 5 elements. Each one is linked to a seperate web page.</h3>
 First one is the About section where we have mentioned what our website is all about. Our vision and our goals.
 
 Second one is the "our client" section where we have mentioned the reviews of the customer who has used our website and their views about our services.
